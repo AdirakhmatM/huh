@@ -7,7 +7,7 @@ int main(int argc, char** argv){
 	
 	cout <<"1.Persegi panjang\n";
 	cout <<"2.Segitiga\n";
-	cout<<"Masukan Pilihan =";cin >>pilihan;
+	cout <<"Masukan Pilihan =";cin >>pilihan;
 	
 	switch(pilihan){
 		case 1:
